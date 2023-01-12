@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1625674868 source:c:\users\pujit\documents\c programs\bank\main.c
+	<stdio.h>
+	<stdlib.h>
+
